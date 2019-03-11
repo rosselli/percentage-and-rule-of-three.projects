@@ -1,0 +1,15 @@
+{
+    "name": "rosselli/rule-of-three",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Flavio Rosselli",
+            "email": "rosselli00@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["controllers"]
+    }
+}
