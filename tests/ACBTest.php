@@ -5,10 +5,9 @@ require('vendor/autoload.php');
 use Controllers\ACB;
 use PHPUnit\Framework\TestCase;
 
-class ACB extends TestCase {
+class ACBTest extends TestCase {
 	public function testACB() {
-		$two = new ACB();
-
-		$this->assertEquals(0.80, number_format($two->calculate(24, 30, 1), 2));
+		$acb = new ACB();
+		$this->assertEquals(0.80, number_format($acb->calculate(24, 30, 1), 2));
 	}
 }

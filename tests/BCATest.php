@@ -7,8 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class BCATest extends TestCase {
 	public function testBCA() {
-		$one = new BCA();
-
-		$this->assertEquals(8.57, number_format($one->calculate(7, 3, 20), 2));
+		$bca = new BCA();
+		$this->assertEquals(8.57, number_format($bca->calculate(7, 3, 20), 2));
 	}
 }
