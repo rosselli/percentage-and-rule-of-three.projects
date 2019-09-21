@@ -29,7 +29,7 @@
 + **Y** of **X** is what percent? _(9 of 13 is 69.23%)_
 + What percent of **X** is **Y**? _(22.22% of 27 is 6)_
 
-###```X = Y/(P/100)```
+### ```X = Y/(P/100)```
 + **Y** is **P** percent of what? _(9 is 60% of 15)_
 + **Y** of what is **P** percent? _(4 of 33.3333 is 12%)_
 + **P** percent of what is **Y**? _(20% of 35 is 7)_
@@ -44,3 +44,7 @@
 ## Sources
 + Percentage: [Edward Furey (Calculator Soup)](https://www.calculatorsoup.com/calculators/math/percentage.php)
 + Rule Of Three: [Manual do Mundo](https://www.youtube.com/watch?v=ls6YLVn4_1o)
+
+## Tests
+
+![](tests.png)
