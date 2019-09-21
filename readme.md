@@ -1,6 +1,6 @@
 # Percentage and Rule Of Three
 
-+ "Percentage" is the **result obtained by multiplying a quantity by a percent**, so 10 percent of 50 apples is 5 apples: the **5 apples is the percentage**.
+"Percentage" is the **result obtained by multiplying a quantity by a percent**, so 10 percent of 50 apples is 5 apples: the **5 apples is the percentage**.
     + **Y** _(5 apples)_
     + **P** _(10%)_
     + **X** _(50 apples)_ 
@@ -36,7 +36,7 @@
 
 
 # Rule Of Three
-+ It that allows you to solve problems **based on proportions**.
+It that allows you to solve problems **based on proportions**.
 
 ## Basic Formula
 ```A/B = C/X```
