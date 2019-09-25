@@ -36,7 +36,7 @@
 
 
 # Rule Of Three
-It that allows you to solve problems **based on proportions**.
+It allows you to solve problems **based on proportions**.
 
 ## Basic Formula
 ```A/B = C/X```
